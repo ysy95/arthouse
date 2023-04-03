@@ -1,0 +1,64 @@
+{
+  "movies":[
+    {
+      "id":"m01",
+      "img_name":"movie01.jpg",
+      "m_name":"흐르다",
+      "date":"2023.03.29 개봉"
+    },
+    {
+      "id":"m02",
+      "img_name":"movie02.jpg",
+      "m_name":"엘 카미노",
+      "date":"2023.03.29 개봉"
+    },
+    {
+      "id":"m03",
+      "img_name":"movie03.jpg",
+      "m_name":"이니셰린의 밴시",
+      "date":"2023.03.29 개봉"
+    },
+    {
+      "id":"m04",
+      "img_name":"movie04.jpg",
+      "m_name":"모나리자와 블러드 문",
+      "date":"2023.03.22 개봉"
+    },
+    {
+      "id":"m05",
+      "img_name":"movie05.jpg",
+      "m_name":"오토라는 남자",
+      "date":"2023.03.29 개봉"
+    },
+    {
+      "id":"m06",
+      "img_name":"movie06.jpg",
+      "m_name":"파벨만스",
+      "date":"2023.03.22 개봉"
+    },
+    {
+      "id":"m07",
+      "img_name":"movie07.jpg",
+      "m_name":"찬란한 나의 복수",
+      "date":"2023.03.29 개봉"
+    },
+    {
+      "id":"m08",
+      "img_name":"movie08.jpg",
+      "m_name":"2023 LCK 스프링 3R",
+      "date":"2023.04.01 개봉"
+    },
+    {
+      "id":"m09",
+      "img_name":"movie09.jpg",
+      "m_name":"상견니",
+      "date":"2023.01.25 개봉"
+    },
+    {
+      "id":"m10",
+      "img_name":"movie10.jpg",
+      "m_name":"에브리씽 에브리웨어 올 앳 원스+",
+      "date":"2023.03.01 개봉"
+    }
+  ]
+}
